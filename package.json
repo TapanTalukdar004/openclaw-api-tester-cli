@@ -1,0 +1,21 @@
+{
+  "name": "openclaw-api-tester-cli",
+  "version": "1.0.0",
+  "description": "CLI installer for OpenClaw API Tester Skill",
+  "type": "module",
+  "bin": {
+    "openclaw-api-tester": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["openclaw", "api", "tester", "skill", "cli"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
