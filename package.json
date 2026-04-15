@@ -1,6 +1,6 @@
 {
   "name": "openclaw-api-tester-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI installer for OpenClaw API Tester Skill",
   "type": "module",
   "bin": {
