@@ -4,13 +4,19 @@
   "description": "CLI installer for OpenClaw API Tester Skill",
   "type": "module",
   "bin": {
-    "openclaw-api-tester": "./index.js"
+    "openclaw-api-tester": "index.js"
   },
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0",
     "prepublishOnly": "npm run test"
   },
-  "keywords": ["openclaw", "api", "tester", "skill", "cli"],
+  "keywords": [
+    "openclaw",
+    "api",
+    "tester",
+    "skill",
+    "cli"
+  ],
   "author": "Tapan Talukdar <tapan.talukdar.cse@gmail.com>",
   "license": "MIT",
   "repository": {
