@@ -1,6 +1,12 @@
 # OpenClaw API Tester CLI
 
+[![npm version](https://img.shields.io/npm/v/openclaw-api-tester-cli.svg)](https://www.npmjs.com/package/openclaw-api-tester-cli)
+[![npm downloads](https://img.shields.io/npm/dm/openclaw-api-tester-cli.svg)](https://www.npmjs.com/package/openclaw-api-tester-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A CLI installer that packages an OpenClaw Skill into a globally executable `npx` tool.
+
+> **Published on npm**: `openclaw-api-tester-cli@1.0.0`
 
 ## What It Does
 
