@@ -81,6 +81,17 @@ To modify or extend the CLI:
 4. Test locally with `node index.js` (ensure you have a mock OpenClaw workspace).
 5. Publish updates via `npm version patch` and `npm publish`.
 
+## Author
+
+**Tapan Talukdar**
+- Email: tapan.talukdar.cse@gmail.com
+- GitHub: [TapanTalukdar004](https://github.com/TapanTalukdar004)
+
+## Repository
+
+- GitHub: https://github.com/TapanTalukdar004/openclaw-api-tester-cli
+- Issues: https://github.com/TapanTalukdar004/openclaw-api-tester-cli/issues
+
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE) file for details.

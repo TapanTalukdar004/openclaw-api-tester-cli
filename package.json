@@ -7,11 +7,25 @@
     "openclaw-api-tester": "./index.js"
   },
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests specified\" && exit 0",
+    "prepublishOnly": "npm run test"
   },
   "keywords": ["openclaw", "api", "tester", "skill", "cli"],
-  "author": "",
+  "author": "Tapan Talukdar <tapan.talukdar.cse@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TapanTalukdar004/openclaw-api-tester-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TapanTalukdar004/openclaw-api-tester-cli/issues"
+  },
+  "homepage": "https://github.com/TapanTalukdar004/openclaw-api-tester-cli#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "node-fetch": "^3.3.2"
   },
